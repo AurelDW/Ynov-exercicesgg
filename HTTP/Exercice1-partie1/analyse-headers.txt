@@ -8,7 +8,7 @@ Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/ap
 Accept-Encoding:gzip, deflate, br => encodage du contenu
 Accept-Language:fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7 => langues compréhensibles par le client
 Cache-Control:max-age=0
-Connection:keep-alive => état de connection 
+Connection:keep-alive => état de connection
 Host:localhost => nom de domaine du serveur
 If-Modified-Since:Thu, 23 Nov 2017 13:30:00 GMT
 If-None-Match:"8b-55ea66ed5ad2c"
